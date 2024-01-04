@@ -1,1 +1,1 @@
-# Projeto inicial do curso do luiz otávio miranda
+# Projeto inicial do curso de React/Next do luiz otávio miranda
